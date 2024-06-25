@@ -1,0 +1,942 @@
+{
+    "title": "CSAS",
+    "version": "2.4",
+    "settings": {
+      "pagenumber": 3,
+      "editable": true,
+      "fullscreenEnabled": false,
+      "parameters": {
+        "neodash_cluster_id": "0",
+        "neodash_cluster_id_display": "0",
+        "neodash_cluster_id_2": "2",
+        "neodash_cluster_id_2_display": "2",
+        "neodash_nr_level": "3",
+        "neodash_cluster_label": "Ocean Wise Plastics",
+        "neodash_cluster_label_display": "Ocean Wise Plastics",
+        "undefined": "Arctic Invasion",
+        "undefined_display": "Arctic Invasion",
+        "neodash_article_title": "Celebrating Sockeye Salmon",
+        "neodash_article_title_display": "Celebrating Sockeye Salmon",
+        "neodash_article_id": {
+          "type": {},
+          "key": "https://cpaws.org/2015-2016/",
+          "ref": null,
+          "props": {
+            "externalLink": true,
+            "target": "_blank",
+            "href": "https://cpaws.org/2015-2016/",
+            "children": "https://cpaws.org/2015-2016/"
+          },
+          "_owner": null
+        },
+        "neodash_article_id_display": {
+          "type": {},
+          "key": "https://cpaws.org/2015-2016/",
+          "ref": null,
+          "props": {
+            "externalLink": true,
+            "target": "_blank",
+            "href": "https://cpaws.org/2015-2016/",
+            "children": "https://cpaws.org/2015-2016/"
+          },
+          "_owner": null
+        },
+        "neodash_article_url": "salmon",
+        "neodash_article_url_display": {
+          "type": {},
+          "key": "https://cpaws.org/2015-2016/",
+          "ref": null,
+          "props": {
+            "externalLink": true,
+            "target": "_blank",
+            "href": "https://cpaws.org/2015-2016/",
+            "children": "https://cpaws.org/2015-2016/"
+          },
+          "_owner": null
+        },
+        "neodash_cluster_label_2": "Atlantic salmon farms and their expiring leases",
+        "neodash_cluster_label_2_display": "Atlantic salmon farms and their expiring leases",
+        "neodash_article_link": [
+          "https://hakaimagazine.com/news/anti-salmon-farming-activists-are-playing-a-global-game-of-whack-a-mole/",
+          "https://hakaimagazine.com/news/humans-fondness-for-the-odd-and-rare-makes-us-particularly-overwhelming-predators/",
+          "https://hakaimagazine.com/news/canadas-limits-on-sea-lice-in-salmon-farms-look-lousy-compared-to-other-countries/",
+          "https://hakaimagazine.com/news/so-long-to-open-net-pen-salmon-farms/",
+          "https://hakaimagazine.com/news/scientists-are-running-out-of-salmon-to-study/",
+          "https://hakaimagazine.com/news/the-aquaculture-industry-needs-a-heat-loving-salmon/"
+        ],
+        "neodash_article_link_display": [
+          "https://hakaimagazine.com/news/anti-salmon-farming-activists-are-playing-a-global-game-of-whack-a-mole/",
+          "https://hakaimagazine.com/news/humans-fondness-for-the-odd-and-rare-makes-us-particularly-overwhelming-predators/",
+          "https://hakaimagazine.com/news/canadas-limits-on-sea-lice-in-salmon-farms-look-lousy-compared-to-other-countries/",
+          "https://hakaimagazine.com/news/so-long-to-open-net-pen-salmon-farms/",
+          "https://hakaimagazine.com/news/scientists-are-running-out-of-salmon-to-study/",
+          "https://hakaimagazine.com/news/the-aquaculture-industry-needs-a-heat-loving-salmon/"
+        ],
+        "neodash_article_link_1": {
+          "type": {},
+          "key": "https://cpaws.org/2018-2019/",
+          "ref": null,
+          "props": {
+            "externalLink": true,
+            "target": "_blank",
+            "href": "https://cpaws.org/2018-2019/",
+            "children": "https://cpaws.org/2018-2019/"
+          },
+          "_owner": null
+        },
+        "neodash_article_link_1_display": {
+          "type": {},
+          "key": "https://cpaws.org/2018-2019/",
+          "ref": null,
+          "props": {
+            "externalLink": true,
+            "target": "_blank",
+            "href": "https://cpaws.org/2018-2019/",
+            "children": "https://cpaws.org/2018-2019/"
+          },
+          "_owner": null
+        },
+        "neodash_term_in_url": "salmon artic",
+        "neodash_terms_in_url": "salmon,artic",
+        "neodash_source_id": "hakaimagazine.com",
+        "neodash_source_id_display": "hakaimagazine.com",
+        "neodash_free_text": "Steelhead Pacific",
+        "neodash_threshold": "0.75",
+        "neodash_top_k": "30",
+        "neodash_selected_clusters": [
+          "4-0",
+          "9-1",
+          "9",
+          "3-0",
+          "3-0-1",
+          "3-0-5",
+          "25",
+          "9-0",
+          "-1-15",
+          "1-0",
+          "4",
+          "4-1",
+          "3-1",
+          "-1-4",
+          "3-0-0",
+          "5-0-3",
+          "16",
+          "1-0-0",
+          "1-4",
+          "6-0",
+          "13-1",
+          "3-1-1",
+          "1",
+          "-1-2",
+          "-1-2-0",
+          "5-0",
+          "-1-11",
+          "2-0-3",
+          "5"
+        ],
+        "neodash_selected_clusters_display": [
+          "4-0",
+          "9-1",
+          "9",
+          "3-0",
+          "3-0-1",
+          "3-0-5",
+          "25",
+          "9-0",
+          "-1-15",
+          "1-0",
+          "4",
+          "4-1",
+          "3-1",
+          "-1-4",
+          "3-0-0",
+          "5-0-3",
+          "16",
+          "1-0-0",
+          "1-4",
+          "6-0",
+          "13-1",
+          "3-1-1",
+          "1",
+          "-1-2",
+          "-1-2-0",
+          "5-0",
+          "-1-11",
+          "2-0-3",
+          "5"
+        ],
+        "neodash_selected_articles": [
+          "https://hakaimagazine.com/news/scientists-are-running-out-of-salmon-to-study/",
+          "https://hakaimagazine.com/news/tracking-fish-hook-fork/",
+          "https://hakaimagazine.com/news/saving-salmons-salmon/",
+          "https://hakaimagazine.com/news/salmon-smolts-here-today-guano-tomorrow/",
+          "https://hakaimagazine.com/news/california-state-salmon/",
+          "https://ocean.org/blog/gone-fishing-a-week-out-at-sea/",
+          "https://ocean.org/blog/celebrating-sockeye-salmon/",
+          "https://hakaimagazine.com/news/salmon-need-trees/",
+          "https://hakaimagazine.com/news/a-fish-coup-in-the-salmon-kingdom/",
+          "https://ocean.org/blog/ocean-wise-takes-the-guesswork-out-of-british-columbia-salmon-with-their-salmon-advisory-panel/",
+          "https://hakaimagazine.com/news/supplemental-nutrition-assistance-program-for-whales/",
+          "https://ocean.org/blog/changing-tides-in-the-salmon-industry/",
+          "https://ocean.org/blog/ocean-wise-b-c-salmon-assessment-methodology/",
+          "https://hakaimagazine.com/news/how-far-will-salmon-swim-for-a-craft-beer/",
+          "https://hakaimagazine.com/news/salmon-derbies-flounder-under-stricter-chinook-regulations/",
+          "https://ocean.org/blog/steveston-harbour-breathes-new-life-into-old-nets/",
+          "https://hakaimagazine.com/news/do-salmon-make-decisions-as-a-group/",
+          "https://ocean.org/blog/partner-spotlight-springhills-fish-delivering-sustainable-fish-throughout-ontario/",
+          "https://hakaimagazine.com/news/how-aquaculture-is-spreading-a-salmon-virus/",
+          "https://hakaimagazine.com/news/hitching-ride-great-pacific-garbage-patch/",
+          "https://ocean.org/blog/welcome-aboard-seatopia/",
+          "https://ocean.org/blog/free-cookbook-hooks-you-on-ocean-wise-recommendations/",
+          "https://ocean.org/blog/casusgrill-canada-and-ocean-wise-seafood/",
+          "https://hakaimagazine.com/news/returning-fundys-fish-to-the-wild/",
+          "https://hakaimagazine.com/news/stories-seven-seas-27/",
+          "https://ocean.org/blog/skipper-ottos-community-supported-fishery/",
+          "https://ocean.org/blog/humpback-vessel-scarring/",
+          "https://hakaimagazine.com/news/fish-friendly-gold-mines-produce-salmon-gold/",
+          "https://hakaimagazine.com/news/for-birds-life-is-different-in-a-metropolis/",
+          "https://hakaimagazine.com/news/behind-the-blubber/"
+        ],
+        "neodash_selected_articles_display": [
+          "https://hakaimagazine.com/news/scientists-are-running-out-of-salmon-to-study/",
+          "https://hakaimagazine.com/news/tracking-fish-hook-fork/",
+          "https://hakaimagazine.com/news/saving-salmons-salmon/",
+          "https://hakaimagazine.com/news/salmon-smolts-here-today-guano-tomorrow/",
+          "https://hakaimagazine.com/news/california-state-salmon/",
+          "https://ocean.org/blog/gone-fishing-a-week-out-at-sea/",
+          "https://ocean.org/blog/celebrating-sockeye-salmon/",
+          "https://hakaimagazine.com/news/salmon-need-trees/",
+          "https://hakaimagazine.com/news/a-fish-coup-in-the-salmon-kingdom/",
+          "https://ocean.org/blog/ocean-wise-takes-the-guesswork-out-of-british-columbia-salmon-with-their-salmon-advisory-panel/",
+          "https://hakaimagazine.com/news/supplemental-nutrition-assistance-program-for-whales/",
+          "https://ocean.org/blog/changing-tides-in-the-salmon-industry/",
+          "https://ocean.org/blog/ocean-wise-b-c-salmon-assessment-methodology/",
+          "https://hakaimagazine.com/news/how-far-will-salmon-swim-for-a-craft-beer/",
+          "https://hakaimagazine.com/news/salmon-derbies-flounder-under-stricter-chinook-regulations/",
+          "https://ocean.org/blog/steveston-harbour-breathes-new-life-into-old-nets/",
+          "https://hakaimagazine.com/news/do-salmon-make-decisions-as-a-group/",
+          "https://ocean.org/blog/partner-spotlight-springhills-fish-delivering-sustainable-fish-throughout-ontario/",
+          "https://hakaimagazine.com/news/how-aquaculture-is-spreading-a-salmon-virus/",
+          "https://hakaimagazine.com/news/hitching-ride-great-pacific-garbage-patch/",
+          "https://ocean.org/blog/welcome-aboard-seatopia/",
+          "https://ocean.org/blog/free-cookbook-hooks-you-on-ocean-wise-recommendations/",
+          "https://ocean.org/blog/casusgrill-canada-and-ocean-wise-seafood/",
+          "https://hakaimagazine.com/news/returning-fundys-fish-to-the-wild/",
+          "https://hakaimagazine.com/news/stories-seven-seas-27/",
+          "https://ocean.org/blog/skipper-ottos-community-supported-fishery/",
+          "https://ocean.org/blog/humpback-vessel-scarring/",
+          "https://hakaimagazine.com/news/fish-friendly-gold-mines-produce-salmon-gold/",
+          "https://hakaimagazine.com/news/for-birds-life-is-different-in-a-metropolis/",
+          "https://hakaimagazine.com/news/behind-the-blubber/"
+        ]
+      },
+      "theme": "light"
+    },
+    "pages": [
+      {
+        "title": "Forest",
+        "reports": [
+          {
+            "id": "1a5e0745-5135-484f-8eb6-db2e00cc5e80",
+            "title": "The whole forest",
+            "query": "MATCH path=(:Cluster)<-[:PART_OF*1..]-(:Cluster)\nRETURN path\n\n\n\n",
+            "width": 16,
+            "height": 10,
+            "x": 8,
+            "y": 0,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label"
+            },
+            "settings": {
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true,
+              "downloadImageEnabled": true,
+              "layout": "force-directed",
+              "showPropertiesOnHover": true,
+              "allowDownload": true,
+              "rightClickToExpandNodes": true
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "name",
+                "kbi_keywords",
+                "label",
+                "id",
+                "mmr_keywords",
+                "all_labels",
+                "embedding",
+                "all_label"
+              ]
+            ]
+          },
+          {
+            "id": "577e7d3b-f488-4550-a088-5938b9759d01",
+            "title": "Selected cluster id (type to search)",
+            "query": "MATCH (n:`Cluster`) \nWHERE toLower(toString(n.`id`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`id` as value,  n.`id` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+            "width": 8,
+            "height": 2,
+            "x": 0,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Node Property",
+              "entityType": "Cluster",
+              "propertyType": "id",
+              "propertyTypeDisplay": "id",
+              "parameterName": "neodash_cluster_id"
+            },
+            "schema": []
+          },
+          {
+            "id": "c6cb537e-1598-4a31-bf60-3679a61f6064",
+            "title": "The tree of selected cluster as root",
+            "query": "MATCH path=(:Cluster {id: $neodash_cluster_id})<-[:PART_OF*1..]-(:Cluster)\nRETURN path\n\n\n\n",
+            "width": 8,
+            "height": 8,
+            "x": 0,
+            "y": 2,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label"
+            },
+            "settings": {
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true,
+              "downloadImageEnabled": true,
+              "layout": "tree-right-left",
+              "allowDownload": true,
+              "showPropertiesOnHover": true
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "kbi_keywords",
+                "name",
+                "embedding",
+                "id",
+                "label",
+                "mmr_keywords",
+                "all_label",
+                "all_labels"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tree",
+        "reports": [
+          {
+            "id": "b6f5ea84-b6da-4877-a2fe-d0d899398981",
+            "title": "The tree (of selected cluster as root expanded to at most specified number of levels)",
+            "query": "MATCH (c:Cluster)\n  WHERE c.id = $neodash_cluster_id_2 OR c.label = $neodash_cluster_label_2\nWITH c\nCALL apoc.path.expandConfig(c, {\n\trelationshipFilter: \"<REPRESENTS|<MEMBER_OF|<PART_OF\",\n    minLevel: 1,\n    maxLevel: $neodash_nr_level\n})\nYIELD path\nRETURN path, length(path) AS hops\nORDER BY hops;\n",
+            "width": 20,
+            "height": 10,
+            "x": 4,
+            "y": 0,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label",
+              "Article": "title"
+            },
+            "settings": {
+              "fullscreenEnabled": true,
+              "downloadImageEnabled": true,
+              "showPropertiesOnHover": true,
+              "allowDownload": true,
+              "refreshButtonEnabled": true,
+              "rightClickToExpandNodes": true,
+              "enableEditing": false
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "name",
+                "kbi_keywords",
+                "id",
+                "label",
+                "mmr_keywords",
+                "all_label",
+                "all_labels"
+              ],
+              [
+                "Article",
+                "summary",
+                "keywords",
+                "link",
+                "pub_name",
+                "title",
+                "content"
+              ]
+            ]
+          },
+          {
+            "id": "783566f6-94d9-4d18-af03-cd9c53296f58",
+            "title": "Select cluster by id",
+            "query": "MATCH (n:`Cluster`) \nWHERE toLower(toString(n.`id`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`id` as value,  n.`id` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+            "width": 4,
+            "height": 2,
+            "x": 0,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Node Property",
+              "entityType": "Cluster",
+              "propertyType": "id",
+              "propertyTypeDisplay": "id",
+              "parameterName": "neodash_cluster_id_2",
+              "id": "2"
+            },
+            "schema": []
+          },
+          {
+            "id": "fb3ffb53-5310-401f-b63f-3fb02ace2a95",
+            "title": "Number of levels",
+            "query": "RETURN true;",
+            "width": 4,
+            "height": 2,
+            "x": 0,
+            "y": 4,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Free Text",
+              "entityType": "nr_level",
+              "parameterName": "neodash_nr_level"
+            },
+            "schema": []
+          },
+          {
+            "id": "6928b291-5487-4f7d-8453-906373967a1e",
+            "title": "Or select cluster by label",
+            "query": "MATCH (n:`Cluster`) \nWHERE toLower(toString(n.`label`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`label` as value,  n.`label` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+            "width": 4,
+            "height": 2,
+            "x": 0,
+            "y": 2,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Node Property",
+              "entityType": "Cluster",
+              "propertyType": "label",
+              "propertyTypeDisplay": "label",
+              "parameterName": "neodash_cluster_label_2",
+              "id": "2"
+            },
+            "schema": []
+          }
+        ]
+      },
+      {
+        "title": "Articles",
+        "reports": [
+          {
+            "id": "83abd009-ed50-4620-a489-460e4b4c7598",
+            "title": "Articles and parent clusters",
+            "query": "MATCH (a:Article)\n  WHERE a.link IN $neodash_article_link\nWITH a\n  MATCH path=(a)-[:REPRESENT|MEMBER_OF]->(:Cluster)-[:PART_OF*0..]->(:Cluster)\nRETURN path",
+            "width": 24,
+            "height": 11,
+            "x": 0,
+            "y": 10,
+            "type": "graph",
+            "selection": {
+              "Article": "title",
+              "Cluster": "label"
+            },
+            "settings": {
+              "refreshButtonEnabled": true,
+              "fullscreenEnabled": true
+            },
+            "schema": [
+              [
+                "Article",
+                "summary",
+                "keywords",
+                "pub_name",
+                "link",
+                "embedding",
+                "title",
+                "content"
+              ],
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "name",
+                "kbi_keywords",
+                "embedding",
+                "id",
+                "label",
+                "mmr_keywords",
+                "all_label",
+                "all_labels"
+              ]
+            ]
+          },
+          {
+            "id": "c10fcd73-d247-411a-8808-9b3441f68027",
+            "title": "List of articles",
+            "query": "MATCH (n:Article)\n  WHERE SIZE([e IN SPLIT($neodash_terms_in_url, ',') WHERE n.link CONTAINS TOLOWER(e)]) > 0\nRETURN n.title AS title, TOSTRING(n.link) AS link",
+            "width": 24,
+            "height": 8,
+            "x": 0,
+            "y": 2,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "type": "Node Property",
+              "entityType": "Article",
+              "propertyType": "link",
+              "propertyTypeDisplay": "link",
+              "parameterName": "neodash_article_link",
+              "refreshButtonEnabled": true,
+              "fullscreenEnabled": true,
+              "allowDownload": false,
+              "compact": false,
+              "columnWidthsType": "Relative (%)",
+              "actionsRules": [
+                {
+                  "condition": "rowCheck",
+                  "field": "",
+                  "value": "link",
+                  "customization": "set variable",
+                  "customizationValue": "article_link"
+                }
+              ],
+              "columnWidths": "[40,60]"
+            },
+            "schema": []
+          },
+          {
+            "id": "7f03848b-6d36-4f06-bfb3-2e6cd5ddf442",
+            "title": "Terms (comma-separated)",
+            "query": "RETURN true;",
+            "width": 24,
+            "height": 2,
+            "x": 0,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Free Text",
+              "entityType": "Terms in url",
+              "multiSelector": false,
+              "multiline": true,
+              "parameterName": "neodash_terms_in_url"
+            },
+            "schema": []
+          }
+        ]
+      },
+      {
+        "title": "Search",
+        "reports": [
+          {
+            "id": "52715126-f251-4efb-b7c3-d373aabab766",
+            "title": "Text input",
+            "query": "RETURN true;",
+            "width": 20,
+            "height": 4,
+            "x": 4,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Free Text",
+              "entityType": "Free text",
+              "parameterName": "neodash_free_text",
+              "multiline": true,
+              "manualParameterSave": false
+            },
+            "schema": []
+          },
+          {
+            "id": "802d1a6f-fea8-4d53-865c-46f6751f8397",
+            "title": "Matched clusters",
+            "query": "CALL apoc.load.jsonParams(\n    \"http://34.118.173.82:8000/create_embeddings\",\n    {method: \"POST\", `Content-Type`: \"application/json\"},\n    apoc.convert.toJson({text: $neodash_free_text})\n) YIELD value AS chunk_embedding_dict\nWITH chunk_embedding_dict['embeddings'] AS chunk_embedding_list\n\tUNWIND  chunk_embedding_list AS chunk_embedding\nWITH chunk_embedding[0] AS chunk, chunk_embedding[1] AS embedding\n    CALL db.index.vector.queryNodes(\"cluster-embeddings\", TOINTEGER($neodash_top_k), embedding)\n\tYIELD node AS cluster, score\nWITH cluster, score\n  WHERE cluster.id <> \"28\" AND score >= TOFLOAT($neodash_threshold)\nRETURN score, cluster.id AS cluster_id, cluster.label AS cluster_label ORDER BY score DESC\n\n\n\n",
+            "width": 11,
+            "height": 7,
+            "x": 0,
+            "y": 4,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "compact": false,
+              "allowDownload": false,
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true,
+              "columnWidths": "[10,15,75]",
+              "actionsRules": [
+                {
+                  "condition": "rowCheck",
+                  "field": "",
+                  "value": "cluster_id",
+                  "customization": "set variable",
+                  "customizationValue": "selected_clusters"
+                }
+              ],
+              "wrapContent": true
+            }
+          },
+          {
+            "id": "473f8fde-b337-4260-b741-a2a3d1fdbe61",
+            "title": "Threshold",
+            "query": "RETURN true;",
+            "width": 4,
+            "height": 2,
+            "x": 0,
+            "y": 2,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Free Text",
+              "entityType": "Threshold",
+              "parameterName": "neodash_threshold"
+            },
+            "schema": []
+          },
+          {
+            "id": "41b7805c-0c1c-4267-84a4-57dc9b6c2cd1",
+            "title": "Top K",
+            "query": "RETURN true;",
+            "width": 4,
+            "height": 2,
+            "x": 0,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Free Text",
+              "entityType": "Top k",
+              "parameterName": "neodash_top_k"
+            },
+            "schema": []
+          },
+          {
+            "id": "d242b4c7-b325-4b3c-9dc8-1cf4afafb435",
+            "title": "Selection of matched clusters",
+            "query": "MATCH (c:Cluster)\n  WHERE c.id IN $neodash_selected_clusters\nWITH c\n  MATCH path=(c)-[:PART_OF*0..]->(:Cluster)\nRETURN path\n",
+            "width": 13,
+            "height": 7,
+            "x": 11,
+            "y": 4,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label"
+            },
+            "settings": {
+              "refreshButtonEnabled": true,
+              "fullscreenEnabled": true
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "name",
+                "kbi_keywords",
+                "embedding",
+                "id",
+                "label",
+                "mmr_keywords",
+                "all_label",
+                "all_labels"
+              ]
+            ]
+          },
+          {
+            "id": "2047794b-3b1f-4eaf-83d1-17edb82f78d0",
+            "title": "Matched articles",
+            "query": "CALL apoc.load.jsonParams(\n    \"http://34.118.173.82:8000/create_embeddings\",\n    {method: \"POST\", `Content-Type`: \"application/json\"},\n    apoc.convert.toJson({text: $neodash_free_text})\n) YIELD value AS chunk_embedding_dict\nWITH chunk_embedding_dict['embeddings'] AS chunk_embedding_list\n\tUNWIND  chunk_embedding_list AS chunk_embedding\nWITH chunk_embedding[0] AS chunk, chunk_embedding[1] AS embedding\n    CALL db.index.vector.queryNodes(\"article-embeddings\", TOINTEGER($neodash_top_k), embedding)\n\tYIELD node AS article, score\nWITH article, score\n  WHERE score >= TOFLOAT($neodash_threshold)\nRETURN score, article.link AS article_link, article.title AS article_title ORDER BY score DESC\n\n\n\n",
+            "width": 11,
+            "height": 7,
+            "x": 0,
+            "y": 11,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "compact": false,
+              "allowDownload": false,
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true,
+              "columnWidths": "[10,45,45]",
+              "wrapContent": true,
+              "actionsRules": [
+                {
+                  "condition": "rowCheck",
+                  "field": "",
+                  "value": "article_link",
+                  "customization": "set variable",
+                  "customizationValue": "selected_articles"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fde49328-048a-4887-8959-1d8ff69b320c",
+            "title": "Selection of matched articles and their clusters",
+            "query": "MATCH (a:Article)\n  WHERE a.link IN $neodash_selected_articles\nWITH a\n  MATCH path=(:Cluster)<-[:PART_OF*0..]-(:Cluster)<-[:REPRESENT|MEMBER_OF]-(a)\nRETURN path\n",
+            "width": 13,
+            "height": 7,
+            "x": 11,
+            "y": 11,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label",
+              "Article": "title"
+            },
+            "settings": {
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "kbi_keywords",
+                "name",
+                "embedding",
+                "id",
+                "label",
+                "mmr_keywords",
+                "all_label",
+                "all_labels"
+              ],
+              [
+                "Article",
+                "summary",
+                "keywords",
+                "pub_name",
+                "link",
+                "embedding",
+                "title",
+                "content"
+              ]
+            ]
+          },
+          {
+            "id": "dc53bc15-c69b-4ae4-ba6d-cb82bd7e0189",
+            "title": "Matched cluster identifiers",
+            "query": "WITH $neodash_selected_clusters AS clusters\n  UNWIND clusters AS cluster\nRETURN cluster\n\n\n",
+            "width": 11,
+            "height": 10,
+            "x": 0,
+            "y": 18,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "wrapContent": true,
+              "refreshButtonEnabled": true
+            },
+            "schema": []
+          },
+          {
+            "id": "888efa46-fcf0-4a46-a90e-e5fa929652a3",
+            "title": "Matched article links",
+            "query": "WITH $neodash_selected_articles AS articles\n  UNWIND articles AS article\nRETURN article\n\n\n\n\n",
+            "width": 13,
+            "height": 10,
+            "x": 11,
+            "y": 18,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "wrapContent": true,
+              "refreshButtonEnabled": true
+            }
+          }
+        ]
+      },
+      {
+        "title": "Source",
+        "reports": [
+          {
+            "id": "d2f4311f-8784-42e4-81b9-1c679210cca4",
+            "title": "Select source",
+            "query": "MATCH (n:`Source`) \nWHERE toLower(toString(n.`id`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`id` as value,  n.`id` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+            "width": 5,
+            "height": 2,
+            "x": 0,
+            "y": 0,
+            "type": "select",
+            "selection": {},
+            "settings": {
+              "type": "Node Property",
+              "entityType": "Source",
+              "propertyType": "id",
+              "propertyTypeDisplay": "id",
+              "parameterName": "neodash_source_id"
+            },
+            "schema": []
+          },
+          {
+            "id": "0ced6d9e-265d-40d9-a630-e0e838d98d25",
+            "title": "Cluster with publications",
+            "query": "MATCH (:Source {id: $neodash_source_id})-[:FROM]->(:Article)-[]-(c:Cluster)\nWITH COLLECT(c) AS cc\n  MATCH path=(c)-[:PART_OF*0..]->(o)\n    WHERE c IN cc\nRETURN path\n\n\n\n\n\n",
+            "width": 19,
+            "height": 11,
+            "x": 5,
+            "y": 0,
+            "type": "graph",
+            "selection": {
+              "Cluster": "label"
+            },
+            "settings": {
+              "fullscreenEnabled": true,
+              "refreshButtonEnabled": true,
+              "downloadImageEnabled": true,
+              "showPropertiesOnHover": true,
+              "allowDownload": true
+            },
+            "schema": [
+              [
+                "Cluster",
+                "summary",
+                "keywords",
+                "rep_keywords",
+                "name",
+                "kbi_keywords",
+                "label",
+                "id",
+                "mmr_keywords",
+                "all_labels",
+                "all_label"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Metadata",
+        "reports": [
+          {
+            "id": "709cea05-e475-4de9-b4b3-9d5838be4877",
+            "title": "Meta Graph",
+            "query": "CAll apoc.meta.graph()\n\n\n",
+            "width": 7,
+            "height": 4,
+            "x": 0,
+            "y": 0,
+            "type": "graph",
+            "selection": {
+              "Article": "count",
+              "Cluster": "count",
+              "Source": "count",
+              "_Neodash_Dashboard": "name"
+            },
+            "settings": {
+              "showPropertiesOnHover": true
+            },
+            "schema": [
+              [
+                "Article",
+                "name",
+                "count"
+              ],
+              [
+                "Cluster",
+                "name",
+                "count"
+              ],
+              [
+                "Source",
+                "name",
+                "count"
+              ],
+              [
+                "_Neodash_Dashboard",
+                "name",
+                "count"
+              ],
+              [
+                "MEMBER_OF",
+                "count",
+                "type",
+                "in",
+                "out"
+              ],
+              [
+                "PART_OF",
+                "count",
+                "type",
+                "in",
+                "out"
+              ],
+              [
+                "FROM",
+                "count",
+                "type",
+                "in",
+                "out"
+              ],
+              [
+                "REPRESENTS",
+                "count",
+                "type",
+                "in",
+                "out"
+              ]
+            ]
+          },
+          {
+            "id": "3755c268-2e48-4725-b679-3b74f4e61652",
+            "title": "Statistics",
+            "query": "CALL apoc.meta.data();\n\n\n",
+            "width": 17,
+            "height": 9,
+            "x": 7,
+            "y": 0,
+            "type": "table",
+            "selection": {},
+            "settings": {
+              "transposed": false,
+              "compact": true,
+              "allowDownload": true
+            }
+          },
+          {
+            "id": "0296e8aa-7460-46e8-b29d-bf62c2d2cac6",
+            "title": "Nodes",
+            "query": "CALL apoc.meta.nodeTypeProperties()\n\n\n",
+            "width": 7,
+            "height": 5,
+            "x": 0,
+            "y": 4,
+            "type": "table",
+            "selection": {},
+            "settings": {},
+            "schema": []
+          }
+        ]
+      }
+    ],
+    "parameters": {},
+    "extensions": {
+      "active": true,
+      "activeReducers": [],
+      "styling": {},
+      "actions": {
+        "active": true
+      },
+      "forms": {}
+    },
+    "uuid": "a6eaf6f9-d8f4-4520-ba25-5e017ca23920"
+  }
